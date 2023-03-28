@@ -1,0 +1,10 @@
+1-I Cria um repositório no git.
+II Clonar para uma pasta. 
+II Entra na pasta pelo terminal.
+IV Usa o comando git add .  para adicionar o commit.
+V Usa o comando git commit -m “nome do commit” para dar nome ao commit.
+VI Usa o git push para enviar para o git hub.
+2- Torna as decisões mais verificáveis pois não abre espaço para suposições.
+3- Durante a análise de dados.
+4 -Quantitativos são os que podem ser mensurados (pode ser visto em números), já os qualitativos são aqueles que não podem ser mensurados e estão sujeitos a interpretações (requer abstração).
+5- A importância da analise de dados pois ajuda muito na tomar decisões, tomar decisões mais inteligentes e não desperdício de recursos humanos ou materiais.
